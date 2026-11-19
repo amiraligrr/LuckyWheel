@@ -1,0 +1,9 @@
+# Copy this file to local.properties and fill in your own values.
+# Never commit local.properties.
+#
+# sdk.dir is optional when ANDROID_HOME / ANDROID_SDK_ROOT is configured.
+sdk.dir=/path/to/Android/Sdk
+
+# Use the Mediation App ID from the Tapsell dashboard.
+TAPSELL_MEDIATION_APP_ID=YOUR_MEDIATION_APP_ID
+TAPSELL_BANNER_ZONE_ID=YOUR_BANNER_ZONE_ID

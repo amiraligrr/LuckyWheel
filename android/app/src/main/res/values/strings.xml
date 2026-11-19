@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">چرخونه شانسی</string>
+    <string name="title_activity_main">چرخونه شانسی</string>
+    <string name="package_name">wheel.amiraligrr.app</string>
+    <string name="custom_url_scheme">wheel.amiraligrr.app</string>
+</resources>

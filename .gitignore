@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+.vite/
+
+# Web build output
+dist/
+
+# Android build output
+android/.gradle/
+android/build/
+android/app/build/
+android/app/src/main/assets/public/
+
+# Secrets — never commit
+android/local.properties
+android/keystore.properties
+android/keystore/
+*.jks
+*.keystore
+*.apk
+*.aab
+.env
+.env.*
+
+# IDE / OS
+.DS_Store
+.idea/
+.vscode/
+*.log
